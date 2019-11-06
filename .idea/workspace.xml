@@ -41,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="713" />
-    <option name="y" value="305" />
+    <option name="x" value="230" />
+    <option name="y" value="325" />
     <option name="width" value="1400" />
     <option name="height" value="989" />
   </component>
@@ -71,6 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
